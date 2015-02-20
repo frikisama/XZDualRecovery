@@ -1,4 +1,4 @@
-#!/usr/bin/sudo /bin/sh
+#!/bin/sh
 
 SUPERAPP="superuser"
 ADBBINARY="adb.linux"
